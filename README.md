@@ -20,7 +20,7 @@ const URL = "https://www.flipkart.com/search?q=mobiles"
 ![Image](https://github.com/vinaysomawat/Nodejs-Web-Crawling/blob/master/Img/Screenshot-from-2018-12-17-03-26-35.png)
 
 ### data.txt
-
+![Image](https://github.com/vinaysomawat/Nodejs-Web-Crawling/blob/master/Img/Screenshot%20from%202019-08-24%2009-28-39.png)
 
 ### Run the server
 `node server.js`
